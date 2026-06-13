@@ -45,7 +45,7 @@ PANDUAN INSTALASI
 -----------------
 1. Clone repositori: git clone https://github.com/shalehh17/smart-shopper-assistant.git
 2. Instal dependensi: pip install -r requirements.txt
-3. Konfigurasi .env: Masukkan GROQ_API_KEY dan MONGO_URI Anda.
+3. Konfigurasi .env: Masukkan GROQ_API_KEY dan MONGO_URI.
 4. Setup Database: Jalankan `python setup_db.py`.
 5. Jalankan Aplikasi: `streamlit run app.py`
 
