@@ -1,0 +1,17 @@
+[
+  {
+    "topic": "Pengiriman",
+    "keywords": ["pengiriman", "lama", "estimasi", "sampai", "ekspedisi"],
+    "answer": "Estimasi pengiriman reguler adalah 2-4 hari kerja tergantung lokasi."
+  },
+  {
+    "topic": "Refund",
+    "keywords": ["refund", "pengembalian", "dana", "batal", "uang"],
+    "answer": "Proses refund dilakukan maksimal 7 hari kerja setelah barang diterima kembali."
+  },
+  {
+    "topic": "Pembayaran",
+    "keywords": ["pembayaran", "metode", "transfer", "bank", "bayar"],
+    "answer": "Kami menerima transfer bank, E-Wallet, dan Virtual Account."
+  }
+]

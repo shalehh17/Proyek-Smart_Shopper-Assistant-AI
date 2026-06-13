@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Large datasets
+data/genome-scores.csv
+data/ratings.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual Environment (jika ada)
+venv/
+env/
+.venv/
